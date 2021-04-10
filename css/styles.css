@@ -191,6 +191,6 @@ p{
     .title-image
     {
         position: static;
-        transition: rotate(0);
+        transform: rotate(0);
     }
-}
+} 
